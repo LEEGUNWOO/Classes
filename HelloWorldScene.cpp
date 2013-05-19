@@ -63,7 +63,7 @@ bool HelloWorld::init()
         // 2. Add a label shows "Hello World".
 
         // Create a label and initialize with string "Hello World".
-        CCLabelTTF* pLabel = CCLabelTTF::create("Hello jjj", "Arial", 24);
+        CCLabelTTF* pLabel = CCLabelTTF::create("Hello help", "Arial", 24);
         CC_BREAK_IF(! pLabel);
 
         // Get window size and place the label upper. 
